@@ -3,7 +3,7 @@
 ![Lenguaje principal](https://img.shields.io/github/languages/top/Tony162wbwd/My-Projects?style=for-the-badge)
 ![Tamaño del repo](https://img.shields.io/github/repo-size/Tony162wbwd/My-Projects?style=for-the-badge)
 ![Estado del proyecto](https://img.shields.io/badge/status-En%20desarrollo-orange?style=for-the-badge)
-[![Instagram](https://img.shields.io/badge/Instagram-javier__1617-purple?style=for-the-badge&logo=instagram)](https://instagram.com/javier_1617)
+
 
 
 # My-Projects
