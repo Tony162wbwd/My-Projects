@@ -1,6 +1,6 @@
 ![Versión](https://img.shields.io/badge/version-1.0-blue)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Tony162wbwd/My-Projects?style=for-the-badge)
-![Lenguaje principal](https://img.shields.io/github/languages/top/Tony162wbwd/My-Projects?style=for-the-badge)
+[![Lenguaje C++](https://img.shields.io/github/languages/top/Tony162wbwd/My-Projects?style=for-the-badge)](https://es.wikipedia.org/wiki/C%2B%2B)
 ![Tamaño del repo](https://img.shields.io/github/repo-size/Tony162wbwd/My-Projects?style=for-the-badge)
 ![Estado del proyecto](https://img.shields.io/badge/status-En%20desarrollo-orange?style=for-the-badge)
 
