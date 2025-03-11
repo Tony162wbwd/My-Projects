@@ -1,1 +1,14 @@
-# Ignore
+# Este repositorio contiene todo lo que voy aprendiendo sobre los siguientes 
+lenguajes de programacion:
+
+Java
+
+JavaScript
+
+Python
+
+C++
+
+Cada archivo refleja diferentes conceptos, ejercicios y 
+proyectos que he desarrollado 
+mientras avanzo en mi aprendizaje.
