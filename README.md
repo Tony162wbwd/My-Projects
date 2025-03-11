@@ -1,10 +1,13 @@
-![Versión](https://img.shields.io/badge/version-1.0-blue)
-![GitHub Repo stars](https://img.shields.io/github/stars/Tony162wbwd/My-Projects?style=for-the-badge)
-[![Lenguaje C++](https://img.shields.io/github/languages/top/Tony162wbwd/My-Projects?style=for-the-badge)](https://es.wikipedia.org/wiki/C%2B%2B)
-![Tamaño del repo](https://img.shields.io/github/repo-size/Tony162wbwd/My-Projects?style=for-the-badge)
-![Estado del proyecto](https://img.shields.io/badge/status-En%20desarrollo-orange?style=for-the-badge)
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
+###
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
 
-# My-Projects
-These are my cplusplus projects, obviously they are not the best since I am just getting into this programming thing. These are things that I have learned from "Alejandro Taboada", may he rest in peace, and may God have him in his holy glory.
+###
