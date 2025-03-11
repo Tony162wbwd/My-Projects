@@ -1,6 +1,6 @@
 
 #include <iostream>  // Incluir la librería para entradas y salidas estándar
-#incluír <cmath>     // Incluir la librería para funciones matemáticas avanzadas
+#include <math.h>     // Incluir la librería para funciones matemáticas avanzadas
 using namespace std;
 
 int main() {
