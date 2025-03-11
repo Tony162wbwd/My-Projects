@@ -1,15 +1,22 @@
 #include <iostream>  // Incluir la librería para entradas y salidas estándar
 #include <conio.h>   // Incluir la librería para usar funciones como getch() (no necesaria en todos los entornos)
+/*
+QUÉ LE DICE UN POLLO POLCIA A OTRO POLLO POLICIA?
 
-using namespace std;
-
+TRAIGAN MÁS POLLOS*/
+// JAJAJJSJA
+///////////////////////////////////////////////////////////////////////////////////////////////
+using namespace std;                                                                         //
+//============================================================================================                                                                                            
 int main() {
     int opc;             // Variable para almacenar la opción seleccionada por el usuario
     float n1 = 0, n2 = 0, result = 0;  // Variables para almacenar los dos números ingresados y el resultado
 
     // Ciclo do-while para mostrar el menú y permitir que el usuario elija operaciones hasta que decida salir
-    do {
+    do { 
         // Mostrar el menú de opciones de la calculadora
+
+/*================================================================================================*/
         cout << "\t\nCalculadora" << endl;
         cout << "1. Suma" << endl;   // Opción para sumar
         cout << "2. Resta" << endl;  // Opción para restar
