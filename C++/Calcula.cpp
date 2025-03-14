@@ -40,8 +40,8 @@ int main(){
     *                                                  *
     *           1. Saber raiz cuadrada de un numero    * 
     *           2. Salir del programa                  *
-    *           Digite una opcion: 81                  *
-	*           Raiz cuadrada: 9                       *
+    *           Digite una opcion:                     *
+	*                                                  *
 	*                                                  *
 	*                                                  *
 	*                                                  *
